@@ -1,2 +1,11 @@
 # CRUD_AndroidMySQL
-Create, Read, Update dan Delete Android dengan MySQL
+Membuat Aplikasi CRUD (Create, Read, Update, Delete) di Android Studio berserta dengan web servicesnya menggunakan PHP dan MySQL.
+
+Bahasa digunakan pada source code ini adalah:
+- XML
+- PHP
+- MySQLi
+
+
+
+**Ikuti Tutorialnya pada link berikut:** [CRUD Android dengan MySQL](http://www.kodingindonesia.com/belajar-membuat-aplikasi-crud-android-menggunakan-database-mysql/)

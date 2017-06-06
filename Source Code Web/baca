@@ -1,0 +1,10 @@
+1. Copy Folder Android ke dalam folder htdocs atau folder Web Server kalian
+2. Import Database "db_android.sql" ke dalam database kalian caranya
+	- Buka phpmyadmin
+	- Buat New Database dengan nama (db_android.sql)
+	- jangan membuat Table tetapi import file "db_android.sql" kedalamnya
+	- maka secara otomatis Table tb_pegawai akan tercipta
+3. Sedangkan file MyCRUD merupakan project Android Studio, kalian bisa membukanya menggunakan Android studio
+
+Terimakasih telah mengunjungi website kami
+kodingindonesia.com
