@@ -10,3 +10,5 @@ Bahasa yang digunakan pada source code ini adalah:
 
 
 **Ikuti Tutorialnya pada link berikut:** [CRUD Android dengan MySQL](http://www.kodingindonesia.com/belajar-membuat-aplikasi-crud-android-menggunakan-database-mysql/)
+
+Saya izin ikut compare mas by Asep.Septiadi
